@@ -1,2 +1,2 @@
 # terms2genes
- This repo extract the genes of terms that match keywords.
+ This repository extracts genes associated with terms that match specified keywords.
